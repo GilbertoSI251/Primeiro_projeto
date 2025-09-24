@@ -1,0 +1,5 @@
+idade_str=input("Digite sua idade: ")
+idade_int=int(idade_str)
+print(f"Sua idade é {idade_int} anos. Daqui a um ano, voce tera {idade_int+1}")
+print(f"Tipo da idade_str :{type(idade_str)}")
+print(f"Tipo da idade_int :{type(idade_int)}")
